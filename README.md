@@ -1,4 +1,5 @@
 -  Hi, I’m Joshua
 -  I’m interested in Programming and Game design. 
 -  I’m currently learning Java, python and C
+-  I have a personality somewhere
 -  How to reach me: ST10478427@vcconnect.edu.za
